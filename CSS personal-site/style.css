@@ -1,0 +1,72 @@
+body{
+ background-color: #E9D5DA;
+ }
+ hr{
+   background-color: #F2D1D1;
+   border-style: none;
+  border-top-style: dotted;
+  border-color : grey;
+  border-width: 5px;
+   height: 1px;
+   width :100px;
+ }
+img{
+   height: 150px;
+   background-color: #A760FF;
+ }
+ h3{
+   color: #15133C;
+ }
+ /**p{
+   color: blue;     } **/             /******cause of two ids ..there is dominant of blue color *****/
+
+
+.image:hover{
+  background-color: gold;
+}
+.my-image {
+  border-radius: 100%;
+
+}
+
+#heading {
+  color: #2E0249;
+}
+#para {
+  color: #001D6E;
+  font-size: 18px;
+}
+.imag{
+  position : absolute;
+  right: 10px;
+  top: 10px;
+  height:500px;
+  width: 500px;
+  background-color: red;
+}
+.imags{
+  position: absolute;
+  right:200px;
+  top: 550px;
+  height: 350px;
+  width: 350px;
+}
+.imags1{
+  position: absolute;
+  right:450px;
+  top: 300px;
+   height: 250px;
+}
+.imags2{
+  position: absolute;
+  right:150px;
+  top: 850px;
+
+}
+.imags3{
+  position: absolute;
+  right:350px;
+  top: 900px;
+  height: 200px;
+  width: 200px;
+}
